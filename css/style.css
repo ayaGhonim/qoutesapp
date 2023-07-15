@@ -1,0 +1,13 @@
+h1{
+    font-size: 4.5rem;
+    font-weight: 900;
+}
+.btn{
+    background-color: black;
+    color: white;
+    transition: all .4s;
+}
+.btn:hover{
+    border:black solid 3px;
+    background-color: white;
+}
